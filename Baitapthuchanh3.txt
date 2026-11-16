@@ -1,0 +1,28 @@
+# [C - Character | Vai trò]
+Hãy đóng vai một Chuyên gia Tư vấn Quản lý Thời gian và Định hướng Học tập dành cho sinh viên đại học. Bạn có thế mạnh trong việc xây dựng thời gian biểu khoa học, chống trì hoãn (procrastination) và tối ưu hóa sự cân bằng giữa hiệu suất học tập với sức khỏe tinh thần.
+# [R - Request | Yêu cầu nhiệm vụ]
+Hãy phân tích quỹ thời gian trong tuần của tôi và xây dựng một kế hoạch học tập chi tiết cho 7 ngày (từ Thứ Hai đến Chủ Nhật). Kế hoạch cần giúp tôi khắc phục thói quen trì hoãn, ưu tiên thời gian giải quyết các môn học có nhiều bài tập và đảm bảo sự cân bằng hợp lý giữa học trên lớp, tự học và nghỉ ngơi.
+# [E - Examples | Ví dụ định hướng]
+Cách trình bày từng khung giờ trong bảng cần ngắn gọn, hành động cụ thể và rõ mục tiêu như mẫu sau:
+- Thời gian: 14h00 – 16h00 | Hoạt động: Tự học (Môn X - nhiều bài tập) | Mục tiêu: Hoàn thành 3 bài tập chương 2 theo phương pháp Pomodoro.
+- Thời gian: 16h00 – 16h30 | Hoạt động: Nghỉ ngơi / Vận động nhẹ | Mục tiêu: Phục hồi sự tập trung, tránh mệt mỏi.
+# [A - Adjustments | Ràng buộc và Điều chỉnh]
+Kế hoạch BẮT BUỘC phải tuân thủ nghiêm ngặt các nguyên tắc sau:
+1. Lịch học cố định: Từ Thứ Hai đến Thứ Sáu, khung giờ 07h30 – 11h30 là thời gian học trên lớp.
+2. Thời gian tự học: Chỉ bố trí vào các buổi chiều và buổi tối (và ban ngày cuối tuần). Ưu tiên khung giờ đầu óc tỉnh táo nhất cho các môn có khối lượng bài tập lớn.
+3. Giới hạn tập trung: TUYỆT ĐỐI không xếp lịch học quá 3 giờ liên tục; phải có các khoảng nghỉ ngắn xen kẽ để tránh quá tải.
+4. Giải trí & Nghỉ ngơi: Mỗi ngày phải có ít nhất 1 giờ dành cho giải trí cá nhân, bên cạnh các khung giờ ăn uống, ngủ nghỉ hợp lý.
+# [T - Type of output | Định dạng đầu ra]
+Kết quả trả về chỉ bao gồm 2 phần:
+1. Một bảng Markdown tổng hợp lịch trình đầy đủ 7 ngày với đúng 4 cột: `Ngày` | `Thời gian` | `Hoạt động` | `Mục tiêu`.
+2. Một phần nhận xét ngắn gọn (dưới dạng gạch đầu dòng, tối đa 3-4 ý) đánh giá về tính hợp lý và khả năng chống trì hoãn của kế hoạch này.
+# [E - Extras | Bổ sung]
+- Tuyệt đối KHÔNG viết dưới dạng các đoạn văn dài dòng, lan man.
+- Giữ văn phong thực tế, súc tích, dễ áp dụng ngay cho sinh viên năm nhất.
+Giải thích cấu trúc áp dụng khung CREATE:
+C (Character): Thiết lập danh tính chuyên gia quản lý thời gian để AI dùng tư duy sư phạm và khoa học hành vi (chống trì hoãn).
+R (Request): Nêu rõ 3 mục tiêu nghiệp vụ: phân bổ thời gian, lập lịch 7 ngày và ưu tiên môn nhiều bài tập.
+E (Examples): Cung cấp mẫu định dạng dòng để AI hiểu mức độ chi tiết mong muốn ở cột Hoạt động và Mục tiêu.
+A (Adjustments): Đóng vai trò là bộ lọc ràng buộc cứng (lịch 7h30–11h30, không học quá 3h liên tục, tối thiểu 1h giải trí/ngày).
+T (Type of output): Khóa chặt cấu trúc đầu ra là bảng Markdown 4 cột và phần nhận xét gạch đầu dòng.
+E (Extras): Ràng buộc phụ về văn phong và cấm viết đoạn văn dài.
